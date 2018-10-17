@@ -6,20 +6,20 @@
 
 	Comencem en crear un arxiu anomenat 'arnau'.java en el qual hi posarem a dins el següent.
 
-	package arnau;
-	public class arnau{
+		package arnau;
+		public class arnau{
 
-		public static void main(String[] args){
-			System.out.println("HELLOW MY BOY");		
+			public static void main(String[] args){
+				System.out.println("HELLOW MY BOY");		
+			}
+
 		}
-
-	}
 
 	Una vegada creat el .java, ens dedicarem a compilar aquesta classe amb la següent comanda.
     
     	javac -jar 'archivo'.java
         
-	![compilacio][/img/1.png]
+	![compilacio](/img/1.png)
     
 	Despres crearem un arxiu anomenat MANIFEST.MF afora de la carpeta i que contindrà el següent.
     
