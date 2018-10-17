@@ -19,7 +19,7 @@
     
     	javac -jar 'archivo'.java
         
-     ![compilacio][/img/1.png]
+	![compilacio][/home/batman/Escritorio/empaquetar2/img/1.png]
     
 	Despres crearem un arxiu anomenat MANIFEST.MF afora de la carpeta i que contindrà el següent.
     
