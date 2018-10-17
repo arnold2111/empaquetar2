@@ -19,7 +19,7 @@
     
     	javac -jar 'archivo'.java
         
-	![compilacio][/home/batman/Escritorio/empaquetar2/img/1.png]
+	![compilacio][/img/1.png]
     
 	Despres crearem un arxiu anomenat MANIFEST.MF afora de la carpeta i que contindrà el següent.
     
@@ -41,9 +41,13 @@
     
     
     
-2 INCLOURE JAR'S A LA MEVA APLICACIÓ
-1. Descarrega't el JAR DAWUtils.jar, l'API d'aquest JAR i l'exemple ProvaUtils.java.
-2. Crea el teu propi package i actualitza el fitxer ProvaUtils.java de forma que estigui
+	2 INCLOURE JAR'S A LA MEVA APLICACIÓ
+	
+    Descarrega't el JAR DAWUtils.jar, l'API d'aquest JAR i l'exemple ProvaUtils.java.
+	
+    ![descarrega][/img/4.png]
+    
+    Crea el teu propi package i actualitza el fitxer ProvaUtils.java de forma que estigui
 dins d'aquest.
 3. Intenta executar ProvaUtils. Cal fer-ho de tres formes diferents:
 1. Fes ús de l'opció -classpath
