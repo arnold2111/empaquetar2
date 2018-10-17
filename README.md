@@ -32,12 +32,12 @@
     
     	jar cvmf MANIFEST.MF arnau.jar arnau
     
-     ![jar][/img/2.png]
+     ![jar](/img/2.png)
         
         
 	2 Executa el JAR, i mostra el seu resultat.
     
-	![compilacio][/img/3.png]
+	![compilacio](/img/3.png)
     
     
     
@@ -45,7 +45,7 @@
 	
     Descarrega't el JAR DAWUtils.jar, l'API d'aquest JAR i l'exemple ProvaUtils.java.
 	
-    ![descarrega][/img/4.png]
+    ![descarrega](/img/4.png)
     
     Crea el teu propi package i actualitza el fitxer ProvaUtils.java de forma que estigui
 dins d'aquest.
