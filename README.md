@@ -45,7 +45,8 @@
 	
    1.Descarrega't el JAR DAWUtils.jar, l'API d'aquest JAR 	i l'exemple ProvaUtils.java.
 	
-    ![descarrega](/img/4.png)
+   
+  ![descarrega](/img/4.png)
     
    2.Crea el teu propi package i actualitza el fitxer ProvaUtils.java de forma que estigui dins d'aquest.
     
