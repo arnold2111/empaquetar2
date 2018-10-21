@@ -51,25 +51,25 @@
     
     	
     
-	 Intenta executar ProvaUtils. Cal fer-ho de tres formes diferents:
+Intenta executar ProvaUtils. Cal fer-ho de tres formes diferents:
      
-	 1.Fes ús de l'opció -classpath
+1.Fes ús de l'opció -classpath
 	 	
-        
+  ![classpath1](/img/6.png)
      
-	 2.Posa el JAR en el teu CLASSPATH
+2.Posa el JAR en el teu CLASSPATH
 	 
-     	
+   ![classpath2](/img/7.png)
      
-	 3.Inclou el JAR dins el teu MANIFEST.MF
+3.Inclou el JAR dins el teu MANIFEST.MF
 	 
-     	
+   ![classpath3](/img/8.png)  	
      
-	 4.Quina de les tres opcions anteriors trobes millor?
+4.Quina de les tres opcions anteriors trobes millor?
 	 
-     	
+La millor opció per a mi, ha estat sense dubte, afegir el fitxer .JAR a dins del fitxer MANIFEST, ja que et dona més flexibilitat i una millora en el rendiment i la rapidesa.	
      
-	 5.Detalla tot comentant el codi que fa en general el programa i en concret cada línia, el programa ProvaUtils.java 1 .
+5.Detalla tot comentant el codi que fa en general el programa i en concret cada línia, el programa ProvaUtils.java 1 .
 
 		
 
